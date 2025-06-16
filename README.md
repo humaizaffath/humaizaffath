@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humaiz Affath</h1>
-<h3 align="center">Passionate about AI, ML, Dev, Arch, Code, Craft, and Innovation — exploring the boundaries of technology from Sri Lanka.</h3>
+<h3 align="center">Passionate about   Dev, AI, ML, Arch, Code, Craft, and Innovation — exploring the boundaries of technology from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humaizaffath&label=Profile%20views&color=0e75b6&style=flat" alt="humaizaffath" /> </p>
 
